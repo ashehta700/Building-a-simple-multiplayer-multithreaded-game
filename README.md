@@ -18,8 +18,7 @@ the client file must have the HOST and PORt of server To connect on It ...
 ---- then run the server  file to open socket 
 <h5>-$ python server.py </h5>
 --- then run the client file to connect to server 
-<h5>-$ python client1.py</h5>
-<h2>You Can make run more Clients Depend on Your Server</h2>
+<h5>-$ python client.py</h5>
 <h2>For More Information</h2>
 <h3>Name : Ahmed Shehta Ahmed </h3>
 <h3> Title : Head Of IT (Information Technology) department OF (NSDI) Project</h3>
